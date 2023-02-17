@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "49352bf3cdc90b087d92740b2d891056813b5a710d43759b40b8e36f1cb03eb0"
+            "sha256": "94b1be96f18cb1acacd70cb748242df82a8b75d933ce0708b2aed1947355b1f6"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -598,6 +598,14 @@
             "markers": "python_version >= '3.7'",
             "version": "==3.0.0"
         },
+        "plotly": {
+            "hashes": [
+                "sha256:4ac5db72176ce144f1fcde8d1ef7bdbccf5bb7a53e3d366b16fcd7c85319fdfd",
+                "sha256:81a3aae4021d5ab91790fc71c3433791f41bfc71586e857f7777f429a955039a"
+            ],
+            "index": "pypi",
+            "version": "==5.13.0"
+        },
         "prompt-toolkit": {
             "hashes": [
                 "sha256:3e163f254bef5a03b146397d7c1963bd3e2812f0964bb9a24e6ec761fd28db63",
@@ -844,6 +852,14 @@
             ],
             "version": "==0.6.2"
         },
+        "tenacity": {
+            "hashes": [
+                "sha256:c7bb4b86425b977726a7b49971542d4f67baf72096597d283f3ffd01f33b92df",
+                "sha256:dd1b769ca7002fda992322939feca5bee4fa11f39146b0af14e0b8d9f27ea854"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==8.2.1"
+        },
         "threadpoolctl": {
             "hashes": [
                 "sha256:8b99adda265feb6773280df41eece7b2e6561b772d21ffd52e372f999024907b",
@@ -887,11 +903,11 @@
         },
         "typing-extensions": {
             "hashes": [
-                "sha256:1511434bb92bf8dd198c12b1cc812e800d4181cfcb867674e0f8279cc93087aa",
-                "sha256:16fa4864408f655d35ec496218b85f79b3437c829e93320c7c9215ccfd92489e"
+                "sha256:5cb5f4a79139d699607b3ef622a1dedafa84e115ab0024e0d9c044a9479ca7cb",
+                "sha256:fb33085c39dd998ac16d1431ebc293a8b3eedd00fd4a32de0ff79002c19511b4"
             ],
             "markers": "python_version < '3.10'",
-            "version": "==4.4.0"
+            "version": "==4.5.0"
         },
         "wcwidth": {
             "hashes": [
