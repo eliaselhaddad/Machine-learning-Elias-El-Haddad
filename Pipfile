@@ -12,6 +12,7 @@ ipykernel = "*"
 black = "*"
 scikit-learn = "*"
 plotly = "*"
+tensorflow = "*"
 
 [dev-packages]
 
