@@ -13,6 +13,7 @@ black = "*"
 scikit-learn = "*"
 plotly = "*"
 tensorflow = "*"
+fuzzywuzzy = "*"
 
 [dev-packages]
 

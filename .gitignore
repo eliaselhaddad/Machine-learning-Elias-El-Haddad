@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore large .csv files
+movies_testing.csv
+ratings_testing.csv
