@@ -131,3 +131,5 @@ dmypy.json
 # Ignore large .csv files
 movies_testing.csv
 ratings_testing.csv
+movies.csv
+ratings.csv
